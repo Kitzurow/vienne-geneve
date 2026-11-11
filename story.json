@@ -1,0 +1,3717 @@
+{
+  "title": "De Vienne à Genève",
+  "subtitle": "Juin 2026",
+  "days": [
+    {
+      "id": "20260602",
+      "date": "2 juin",
+      "place": "Avant le départ",
+      "voice": "Avant le départ. La carte est sur la table. Vienne d'abord, puis Genève, par les routes de montagne. Le vélo partira dans un carton.",
+      "audio": "media/voix/20260602.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192700.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192732.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192737.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192804.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192833.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192845.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192902.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192916.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192937.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_192949.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_193002.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_193027.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_193040.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_193052.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260602_193129.jpg",
+          "ms": 2200
+        }
+      ]
+    },
+    {
+      "id": "20260603",
+      "date": "3 juin",
+      "place": "En route",
+      "voice": "Le vélo est dans son carton. Je prends le car pour Vienne. Le voyage, lui, commence demain.",
+      "audio": "media/voix/20260603.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260603_082928.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260603_082956.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260603_085717.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260604",
+      "date": "Jour 1 · 4 juin",
+      "place": "Vienne",
+      "voice": "Premier jour. Vingt-deux heures de car, et me voilà à Vienne. Je sors le vélo du carton, je le remonte. Je reste trois jours pour voir la ville. Des jardins, des églises, le Danube, les musées. Le soir, le vélo dort dans la chambre. Il est prêt.",
+      "audio": "media/voix/20260604.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260604_081341.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_084144.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_084157.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_095913.jpg",
+          "ms": 3400,
+          "label": "Cathédrale Saint-Étienne",
+          "note": "Le portail et les tours romanes",
+          "say": "media/voix/lieux/20260604_095913.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_101145.jpg",
+          "ms": 3400,
+          "label": "Place Am Hof",
+          "note": "L'église et la colonne de Marie",
+          "say": "media/voix/lieux/20260604_101145.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_101349.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_101506.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_102026.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_105613.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_105906.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_110253.jpg",
+          "ms": 3400,
+          "label": "Michaelerplatz",
+          "note": "La Hofburg et sa coupole verte",
+          "say": "media/voix/lieux/20260604_110253.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_111023.jpg",
+          "ms": 3400,
+          "label": "Michaelerplatz",
+          "note": "Un fiacre devant la Hofburg",
+          "say": "media/voix/lieux/20260604_111023.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_111029.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_111141.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_111158.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_111447.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_112137.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_112625.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_112635.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_112642.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_112714.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_122027.jpg",
+          "ms": 3400,
+          "label": "Église Maria vom Siege",
+          "note": "Mariahilf, 1868–1875",
+          "say": "media/voix/lieux/20260604_122027.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_122151.jpg",
+          "ms": 3400,
+          "label": "Église Maria vom Siege",
+          "note": "Friedrich von Schmidt, architecte",
+          "say": "media/voix/lieux/20260604_122151.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_125144.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_133151.jpg",
+          "ms": 3400,
+          "label": "Belvédère supérieur",
+          "note": "La façade sur les jardins",
+          "say": "media/voix/lieux/20260604_133151.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_133318.jpg",
+          "ms": 3400,
+          "label": "Belvédère supérieur",
+          "note": "Le bassin et le palais",
+          "say": "media/voix/lieux/20260604_133318.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_133440.jpg",
+          "ms": 3400,
+          "label": "Grille du Belvédère",
+          "note": "Les lions aux armes impériales",
+          "say": "media/voix/lieux/20260604_133440.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_134241.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_134638.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_140916.jpg",
+          "ms": 3400,
+          "label": "Jardins du Belvédère",
+          "note": "Les sphinx, face à Vienne",
+          "say": "media/voix/lieux/20260604_140916.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_140934.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142222.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142406.jpg",
+          "ms": 3400,
+          "label": "Gustav Klimt — La maison du forestier à Weißenbach",
+          "note": "1914 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142406.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142414.jpg",
+          "ms": 1400,
+          "label": "Gustav Klimt — L'allée du château de Kammer",
+          "note": "1912 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142414.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142432.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Jardin paysan aux tournesols",
+          "note": "1906 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142432.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142446.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Le château de Kammer sur l'Attersee",
+          "note": "Vers 1910 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142446.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142509.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Johanna Staude",
+          "note": "1917–1918 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142509.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142615.jpg",
+          "ms": 3400,
+          "label": "Gustav Klimt — La Mariée",
+          "note": "1917–1918, inachevée · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142615.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142626.jpg",
+          "ms": 1400,
+          "label": "Gustav Klimt — Amalie Zuckerkandl",
+          "note": "1917–1918, inachevée · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142626.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142816.jpg",
+          "ms": 3400,
+          "label": "Gustav Klimt — La Mariée",
+          "note": "1917–1918, inachevée · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142816.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142909.jpg",
+          "ms": 3400,
+          "label": "Gustav Klimt — Le Baiser",
+          "note": "1908 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142909.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_142952.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Pavots en fleurs",
+          "note": "1907 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_142952.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143022.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Sonja Knips",
+          "note": "1898 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143022.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143038.jpg",
+          "ms": 2200,
+          "label": "Gustav Klimt — Les Amies",
+          "note": "Serpents d'eau I, 1904 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143038.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143045.jpg",
+          "ms": 1400,
+          "label": "Gustav Klimt — Fritza Riedler",
+          "note": "1906 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143045.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143204.jpg",
+          "ms": 3400,
+          "label": "Vincent van Gogh — La plaine d'Auvers",
+          "note": "1890 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143204.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143240.jpg",
+          "ms": 2200,
+          "label": "Broncia Koller-Pinell — La Moisson",
+          "note": "Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143240.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143247.jpg",
+          "ms": 1400,
+          "label": "Ferdinand Hodler",
+          "note": "Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143247.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143341.jpg",
+          "ms": 3400,
+          "label": "Claude Monet — Le Père Paul",
+          "note": "1882 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_143341.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143439.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143514.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143617.jpg",
+          "ms": 3400,
+          "label": "Salle de marbre du Belvédère",
+          "note": "Plafond de Carlo Innocenzo Carlone",
+          "say": "media/voix/lieux/20260604_143617.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143651.jpg",
+          "ms": 2200,
+          "label": "Jardins du Belvédère",
+          "note": "Vus depuis le palais",
+          "say": "media/voix/lieux/20260604_143651.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_143851.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_144447.jpg",
+          "ms": 3400,
+          "label": "Jacques-Louis David — Bonaparte au Grand-Saint-Bernard",
+          "note": "1801 · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_144447.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_144555.jpg",
+          "ms": 3400,
+          "label": "Josef Danhauser",
+          "note": "Scène de genre · Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_144555.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_145229.jpg",
+          "ms": 3400,
+          "label": "Jardins du Belvédère",
+          "note": "Depuis une fenêtre du palais",
+          "say": "media/voix/lieux/20260604_145229.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_145721.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_150627.jpg",
+          "ms": 3400,
+          "label": "Le Baiser",
+          "note": "L'affiche du Belvédère",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260604_150627.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_152732.jpg",
+          "ms": 3400,
+          "label": "Place Schwarzenberg",
+          "note": "La fontaine et le monument soviétique",
+          "say": "media/voix/lieux/20260604_152732.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_153606.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_160419.jpg",
+          "ms": 3400,
+          "label": "Opéra d'État de Vienne",
+          "note": "La loggia aux muses",
+          "say": "media/voix/lieux/20260604_160419.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_161246.jpg",
+          "ms": 3400,
+          "label": "Place Marie-Thérèse",
+          "note": "Le musée d'histoire de l'art",
+          "say": "media/voix/lieux/20260604_161246.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_162539.jpg",
+          "ms": 3400,
+          "label": "Église votive",
+          "note": "La rosace et les portails",
+          "say": "media/voix/lieux/20260604_162539.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_163744.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_163956.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_164755.jpg",
+          "ms": 3400,
+          "label": "Le Prater",
+          "note": "La Grande Roue",
+          "say": "media/voix/lieux/20260604_164755.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_165829.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260604_203147.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260605",
+      "date": "Jour 2 · 5 juin",
+      "place": "Schönbrunn",
+      "voice": "Vienne est une ville musée. J'ai flâné de palais en palais. Schönbrunn, c'est toute l'histoire de l'Autriche : la colonnade, le bassin, les statues. Le soir, j'assiste à Carmen, à l'opéra.",
+      "audio": "media/voix/20260605.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260605_081536.jpg",
+          "ms": 3200,
+          "label": "Cathédrale Saint-Étienne",
+          "note": "La façade ouest",
+          "say": "media/voix/lieux/20260605_081536.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_081612.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_082203.jpg",
+          "ms": 3400,
+          "label": "Cathédrale Saint-Étienne",
+          "note": "La nef",
+          "say": "media/voix/lieux/20260605_082203.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_084010.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_084050.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_084236.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_084450.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_084728.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_085350.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_085703.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260605_090241.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_090400.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_090533.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_091004.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_091047.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_094356.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_101440.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102107.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102120.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102218.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102259.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102337.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102425.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_102950.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_103042.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_103128.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn — la Grande Galerie",
+          "note": "Plafond de Gregorio Guglielmi",
+          "say": "media/voix/lieux/20260605_103128.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_104341.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn",
+          "note": "Un salon des appartements",
+          "say": "media/voix/lieux/20260605_104341.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_110203.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn",
+          "note": "La cour d'honneur",
+          "say": "media/voix/lieux/20260605_110203.mp3?v=court"
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260605_110840.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_120057.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260605_120343.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_120824.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121230.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121257.jpg",
+          "ms": 2200,
+          "label": "Schönbrunn — fontaine de Neptune",
+          "note": "Neptune, Thétis et les tritons",
+          "say": "media/voix/lieux/20260605_121257.mp3?v=court"
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260605_121333.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121523.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn — fontaine de Neptune",
+          "say": "media/voix/lieux/20260605_121523.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121618.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121728.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121823.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_121859.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_122405.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260605_122422.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_122627.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_122952.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn — la Gloriette",
+          "note": "1775, au sommet du parc",
+          "say": "media/voix/lieux/20260605_122952.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_123133.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_123407.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_124354.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_130221.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn",
+          "note": "La roseraie",
+          "say": "media/voix/lieux/20260605_130221.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_130729.jpg",
+          "ms": 3400,
+          "label": "Schönbrunn — la Palmenhaus",
+          "note": "La grande serre",
+          "say": "media/voix/lieux/20260605_130729.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_134331.jpg",
+          "ms": 3400,
+          "label": "Opéra d'État de Vienne",
+          "note": "Bâti de 1861 à 1869",
+          "say": "media/voix/lieux/20260605_134331.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_140411.jpg",
+          "ms": 3400,
+          "label": "Carmen, de Bizet",
+          "note": "Opéra de Vienne, 5 juin 2026",
+          "say": "media/voix/lieux/20260605_140411.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_140705.jpg",
+          "ms": 3400,
+          "label": "Opéra d'État de Vienne",
+          "say": "media/voix/lieux/20260605_140705.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_142626.jpg",
+          "ms": 3400,
+          "label": "Marc Chagall",
+          "note": "Albertina, collection Batliner",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260605_142626.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_142645.jpg",
+          "ms": 2200,
+          "label": "Marc Chagall",
+          "note": "Albertina, collection Batliner",
+          "fit": "contain"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_142723.jpg",
+          "ms": 2200,
+          "label": "Marc Chagall",
+          "note": "Albertina, collection Batliner",
+          "fit": "contain"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_142812.jpg",
+          "ms": 3400,
+          "label": "Marc Chagall — Maternité",
+          "note": "1914 · Albertina",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260605_142812.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_143427.jpg",
+          "ms": 3400,
+          "label": "Ferdinand Hodler",
+          "note": "Albertina",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260605_143427.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_143616.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_143951.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_144029.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_144736.jpg",
+          "ms": 3400,
+          "label": "Paul Signac — Antibes, les tours",
+          "note": "1911 · Albertina",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260605_144736.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_144801.jpg",
+          "ms": 2200,
+          "label": "Amedeo Modigliani — Nu féminin",
+          "note": "1918 · Albertina",
+          "fit": "contain",
+          "say": "media/voix/lieux/20260605_144801.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_150515.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_153304.jpg",
+          "ms": 3400,
+          "label": "Albertina",
+          "note": "La collection Batliner",
+          "say": "media/voix/lieux/20260605_153304.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_165639.jpg",
+          "ms": 3400,
+          "label": "Hofburg — la Nouvelle Aile",
+          "note": "Heldenplatz",
+          "say": "media/voix/lieux/20260605_165639.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_170006.jpg",
+          "ms": 3400,
+          "label": "Burggarten",
+          "note": "Le jardin de la Hofburg",
+          "say": "media/voix/lieux/20260605_170006.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_170639.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_171059.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_171122.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_171319.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_171350.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_171445.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_174256.jpg",
+          "ms": 3400,
+          "label": "Carmen, de Bizet",
+          "note": "La distribution du 5 juin 2026",
+          "say": "media/voix/lieux/20260605_174256.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_180644.jpg",
+          "ms": 3400,
+          "label": "Opéra d'État de Vienne",
+          "note": "La salle, avant Carmen",
+          "say": "media/voix/lieux/20260605_180644.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_180653.jpg",
+          "ms": 1400,
+          "label": "Opéra d'État de Vienne",
+          "note": "Le rideau de Carmen",
+          "say": "media/voix/lieux/20260605_180653.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_180751.jpg",
+          "ms": 3400,
+          "label": "Opéra d'État de Vienne",
+          "note": "La salle",
+          "say": "media/voix/lieux/20260605_180751.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_215625.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260605_215900.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260606",
+      "date": "Jour 3 · 6 juin",
+      "place": "Dernier jour à Vienne",
+      "voice": "Dernier jour à pied. Encore des musées, la cathédrale Saint-Étienne, les rues pleines de monde. J'ai hâte de remonter sur le vélo. Ce soir, à l'église Saint-Charles, les Quatre Saisons de Vivaldi.",
+      "audio": "media/voix/20260606.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260606_084435.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_084445.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_084607.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_084909.jpg",
+          "ms": 3400,
+          "label": "Église Saint-Charles-Borromée",
+          "note": "La coupole et la colonne",
+          "say": "media/voix/lieux/20260606_084909.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_084955.jpg",
+          "ms": 3400,
+          "label": "Les Quatre Saisons, de Vivaldi",
+          "note": "Concert à Saint-Charles",
+          "say": "media/voix/lieux/20260606_084955.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_085933.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_090654.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_090707.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_090739.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_090747.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_091734.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_091740.jpg",
+          "ms": 1400,
+          "label": "Église Saint-Charles-Borromée",
+          "note": "Le maître-autel",
+          "say": "media/voix/lieux/20260606_091740.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_093800.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_100219.jpg",
+          "ms": 3400,
+          "label": "Heldenplatz — le prince Eugène",
+          "note": "Devant la Hofburg",
+          "say": "media/voix/lieux/20260606_100219.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_100315.jpg",
+          "ms": 3400,
+          "label": "Heldenplatz — l'archiduc Charles",
+          "note": "L'Hôtel de ville au fond",
+          "say": "media/voix/lieux/20260606_100315.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_100938.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_101133.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_104619.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_104631.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_104904.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105507.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105519.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105535.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105609.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105640.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105831.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_105936.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_111428.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_111632.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_113207.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_113316.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_113339.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_113514.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_114210.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_114555.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_115128.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_115853.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_115946.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_120143.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_120327.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_121259.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_121330.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_121350.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_121624.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_121826.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_123534.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_133522.jpg",
+          "ms": 3400,
+          "label": "Leopold Museum",
+          "note": "La plus grande collection Egon Schiele",
+          "say": "media/voix/lieux/20260606_133522.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_144605.jpg",
+          "ms": 3400,
+          "label": "Hofburg — la Nouvelle Aile",
+          "note": "Heldenplatz",
+          "say": "media/voix/lieux/20260606_144605.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_144620.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_144750.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_145457.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150117.jpg",
+          "ms": 3400,
+          "label": "Volksgarten",
+          "note": "La roseraie",
+          "say": "media/voix/lieux/20260606_150117.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150234.jpg",
+          "ms": 3400,
+          "label": "Volksgarten",
+          "note": "La roseraie"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150244.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150327.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150514.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_150705.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_151643.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_152459.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_153458.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_153644.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_161542.jpg",
+          "ms": 3400,
+          "label": "Église Saint-Pierre",
+          "note": "Peterskirche",
+          "say": "media/voix/lieux/20260606_161542.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_162000.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_162106.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_162203.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260606_162527.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260607",
+      "date": "Jour 4 · 7 juin",
+      "place": "On quitte Vienne",
+      "voice": "Ce matin, je quitte Vienne. Les pistes cyclables, puis les canaux, puis la forêt et les premiers cols. Peu de voitures. Des odeurs de tilleul, de foin et de bois. Le soir, l'aubergiste m'offre son chalet pour la nuit. Neuf heures de vélo. Cent cinquante-deux kilomètres. Deux mille sept cents mètres de dénivelé.",
+      "audio": "media/voix/20260607.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260607_081136.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_093021.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_093031.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_093057.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_121450.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_135551.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_144233.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_153104.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_153303.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260607_153312.jpg",
+          "ms": 1400
+        }
+      ]
+    },
+    {
+      "id": "20260608",
+      "date": "Jour 5 · 8 juin",
+      "place": "Ça monte, ça descend",
+      "voice": "Encore une grande journée. Ici les cols ne sont pas très hauts, mais les pentes vont de huit à dix-sept pour cent. Ça me plaît. Un orage en fin de journée, puis une ferme-auberge. Onze heures. Cent soixante-seize kilomètres.",
+      "audio": "media/voix/20260608.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260608_062450.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_062457.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_062543.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_093914.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_094011.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_094713.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_094733.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_094758.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_105510.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_105845.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_152822.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_155645.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_164153.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260608_191054.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260609",
+      "date": "Jour 6 · 9 juin",
+      "place": "Hochrindl",
+      "voice": "Je suis au Hochrindl, à mille cinq cent vingt mètres. Quatre cent vingt-trois kilomètres depuis Vienne. En montant, je demande une chambre à un homme qui passait la tondeuse. Sa femme loue un chalet. Me voilà chez eux.",
+      "audio": "media/voix/20260609.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260609_081220.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_081237.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_100821.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_104919.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_124234.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_124251.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_124316.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_131937.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_132249.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_143531.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_143539.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_145810.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_150218.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_153435.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_202123.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260609_202215.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260610",
+      "date": "Jour 7 · 10 juin",
+      "place": "Jour de pluie",
+      "voice": "Pluie toute la journée. Neuf degrés. Je reste au chalet. La montagne change vite. Entre deux averses, j'irai à pied jusqu'à une pizzeria tenue par deux Péruviens. Le parcours est encore long. J'en suis au début. On verra ce que dit la météo.",
+      "audio": "media/voix/20260610.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260610_084755.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260610_084919.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260610_170956.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260610_172011.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260610_175441.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260611",
+      "date": "Jour 8 · 11 juin",
+      "place": "Trois degrés",
+      "voice": "La pluie s'est arrêtée. Trois degrés au matin, les sommets ont blanchi. Jambières, manchettes, trois épaisseurs sur le dos. Les rivières grondent. À vingt-trois pour cent, je mets pied à terre et je pousse. L'orage écourte l'étape. Ce soir, une ferme laitière. Ça sent le foin coupé.",
+      "audio": "media/voix/20260611.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260611_060929.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_060940.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_061040.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_061207.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_061315.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_061532.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_064001.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_074648.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_092824.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_093458.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_094049.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_100306.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_111235.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_115409.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_121123.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_121152.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_121602.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_121749.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_121826.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_122045.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_151815.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_165625.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260611_190859.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260612",
+      "date": "Jour 9 · 12 juin",
+      "place": "Au pied du Grossglockner",
+      "voice": "Pluie fine le matin. Je passe le Dientner Sattel, au sud de Salzbourg, et je m'arrête au pied du Grossglockner. Petite journée. Soixante-seize kilomètres. J'en profite pour voir le village. Demain, on verra.",
+      "audio": "media/voix/20260612.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260612_064417.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260612_094020.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260612_120854.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260612_123900.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260612_124001.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260612_124655.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260613",
+      "date": "Jour 10 · 13 juin",
+      "place": "Hochtor",
+      "voice": "Le soleil est revenu, et ça change tout. Je monte le Hochtor, deux mille cinq cents mètres, le plus haut col routier d'Autriche. Sommets enneigés, et les clochettes des génisses. Une colonie de Vespa des années soixante me double, dans une odeur d'essence. Le soir, dans le Sud-Tyrol : chapeaux de feutre, robes longues, et une fanfare de village.",
+      "audio": "media/voix/20260613.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260613_082529.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_091043.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_091549.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_091558.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_091918.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_104135.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_104144.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_104146.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_110314.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_110338.jpg",
+          "ms": 2200,
+          "label": "Fuscher Törl, 2 407 m",
+          "note": "Route du Grossglockner",
+          "say": "media/voix/lieux/20260613_110338.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_110353.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_110400.mp4",
+          "ms": 0
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_110517.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_110735.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_110806.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_112731.mp4",
+          "ms": 0
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_112755.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_112819.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_112936.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_113146.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_113157.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_113209.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_113640.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_113658.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_113912.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_114007.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_114438.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_120747.jpg",
+          "ms": 3400,
+          "label": "Fuscher Törl, 2 439 m",
+          "note": "Le belvédère",
+          "say": "media/voix/lieux/20260613_120747.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_121053.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_121218.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_123958.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_124032.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_124609.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_125254.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_125330.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_125345.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_125525.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_125736.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_131909.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_134018.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_134242.jpg",
+          "ms": 3400,
+          "label": "Grossglockner",
+          "note": "La conquête du sommet, 1800",
+          "say": "media/voix/lieux/20260613_134242.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_134252.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_154755.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_192516.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260613_200550.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260613_201616.mp4",
+          "ms": 0
+        }
+      ]
+    },
+    {
+      "id": "20260614",
+      "date": "Jour 11 · 14 juin",
+      "place": "San Martino",
+      "voice": "Un dimanche plus calme. Deux cols, et me voilà en Italie. Les paysans rentrent le foin sur les pentes. Les fermes sont petites, tenues, fleuries. J'étape à San Martino in Badia, au nord des Dolomites.",
+      "audio": "media/voix/20260614.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260614_065739.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_070951.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_071034.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_071621.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_071634.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_085018.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_090805.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_093138.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_093353.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_094435.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_094443.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_094554.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_100301.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_100703.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_100854.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_101355.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_101509.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_101809.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_112754.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_113215.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_114656.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_114739.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_114811.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_115434.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_115446.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_115526.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_115743.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_121609.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_124253.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_131647.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_131653.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_141340.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_141718.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_145004.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_150319.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_150822.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_151028.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_175826.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_180420.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_180602.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260614_202019.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260615",
+      "date": "Jour 12 · 15 juin",
+      "place": "Les Dolomites",
+      "voice": "Belle journée. Le passo delle Erbe, à deux mille mètres, et trois cols plus modestes. Des routes en balcon, les Dolomites en face. Ce soir, une auberge à Pens, dans le Haut-Adige, à mille cinq cents mètres.",
+      "audio": "media/voix/20260615.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260615_085743.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_090659.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_091225.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_100421.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_100437.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_100620.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_100637.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_103114.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_104858.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110035.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110047.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110207.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110229.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110606.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_110636.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_131510.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_134044.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_134209.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_134736.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_134834.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_140748.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_140830.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_142014.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_142359.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_142437.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_142451.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_145747.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_150216.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_152500.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260615_194042.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260616",
+      "date": "Jour 13 · 16 juin",
+      "place": "Timmelsjoch",
+      "voice": "Une grande journée, que je raconte le lendemain : je me suis endormi devant le foot. Trois cols au-dessus de deux mille mètres. Le Penser Joch, le Jaufenpass, le Timmelsjoch. La route était fermée. J'ai poussé le vélo à travers un champ pour retrouver la trace. Huit heures. Trois mille cinq cents mètres de montée.",
+      "audio": "media/voix/20260616.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260616_070007.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_070019.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_070030.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_083500.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_090600.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_090616.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_090646.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_090656.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_090714.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_091004.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_091014.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_091638.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_093316.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_093337.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_100350.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_100427.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_100449.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_100612.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_100620.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_101343.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_101428.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_141102.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_141345.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_145835.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_150605.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_152214.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_152228.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_152307.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_184708.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_190006.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_190048.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_190218.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260616_191445.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260617",
+      "date": "Jour 14 · 17 juin",
+      "place": "La voie romaine",
+      "voice": "Journée plus douce. Le col de la Pillerhöhe, puis le village de Pfunds, sur la voie romaine Claudia Augusta. C'est le chemin tranquille pour traverser les Alpes, de l'Allemagne jusqu'à Rome. Je n'ai jamais vu autant de vélos à sacoches. Leur pèlerinage à eux.",
+      "audio": "media/voix/20260617.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260617_085519.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_113604.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_114302.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_132613.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_132634.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_132751.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_141728.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_142203.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_144003.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_161323.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_194710.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_200725.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_200745.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260617_201035.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260618",
+      "date": "Jour 15 · 18 juin",
+      "place": "Zuoz",
+      "voice": "Ce matin le Tyrol, ce soir la Suisse. Du soleil, des pistes, beaucoup de cyclistes. Je croise un groupe venu de Toronto, dix jours de cols avec un guide. J'étape à Zuoz, à mille sept cents mètres. À côté, les sonnailles des génisses. Je vais bien dormir.",
+      "audio": "media/voix/20260618.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260618_091746.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_091829.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_091856.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094027.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094040.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094206.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094234.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094354.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_094520.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_095324.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_095353.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_095411.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_095429.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_095453.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_101524.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_103741.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_103752.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_103807.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_104025.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_141542.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_141556.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_141745.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_142733.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_142741.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_184006.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_184139.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_184201.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_185539.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_185601.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_190418.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_190543.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_191156.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260618_191815.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260619",
+      "date": "Jour 16 · 19 juin",
+      "place": "L'orage à Coire",
+      "voice": "Le matin, l'Albulapass, deux mille trois cent douze mètres. Ensuite ça descend, ça remonte. Il fait lourd. L'orage éclate. Je trouve un hôtel à Coire, à l'ouest de Davos. Quatre heures et demie. Soixante-quatorze kilomètres.",
+      "audio": "media/voix/20260619.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061348.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061435.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061515.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061528.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061544.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_061642.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_062102.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_064725.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_064957.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_100700.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103006.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103027.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103051.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103055.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103139.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103453.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260619_103734.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_103847.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260619_103903.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_104842.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_104856.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_105013.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_111343.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_112639.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260619_183244.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260620",
+      "date": "Jour 17 · 20 juin",
+      "place": "Saint-Gothard",
+      "voice": "Très belle journée. Deux cols au-dessus de deux mille mètres : l'Oberalp, et le Saint-Gothard. Je le monte avec un cycliste suisse. À la descente, je prends l'ancienne route, toute pavée, avec ses lacets d'autrefois. Le soir, Airolo, où l'on parle italien.",
+      "audio": "media/voix/20260620.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260620_074834.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_095359.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_111618.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_111633.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_140046.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_140142.jpg",
+          "ms": 3400,
+          "label": "La source du Rhin",
+          "note": "Lai da Tuma, près de Tschamut",
+          "say": "media/voix/lieux/20260620_140142.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_140149.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_144514.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_144536.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_145019.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_145027.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_162254.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_162917.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_162920.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_163339.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_164044.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_164552.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_164750.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_164819.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_164839.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260620_164850.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_165443.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_165446.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260620_165515.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_165904.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_165929.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_165951.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_170232.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260620_170434.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_171415.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_171831.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260620_171903.jpg",
+          "ms": 2200
+        }
+      ]
+    },
+    {
+      "id": "20260621",
+      "date": "Jour 18 · 21 juin",
+      "place": "Nufenen, Grimsel, Susten",
+      "voice": "Dimanche vingt et un juin. Les cols sont pleins : voitures, motos, vélos, et des randonneurs sur les sentiers. Glaciers, lacs, pâturages. Je passe le Nufenen, le Grimsel et le Susten. Le soir, à Wassen, un homme du coin m'emmène à l'auberge. J'ai le gîte et le couvert. Huit heures et demie. Cent vingt-sept kilomètres.",
+      "audio": "media/voix/20260621.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260621_101246.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_101413.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_101918.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_102108.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_102131.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_102424.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_103857.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_103912.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_103923.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "video",
+          "src": "media/videos/20260621_103930.mp4",
+          "ms": 0
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_124908.jpg",
+          "ms": 3400,
+          "label": "Col du Grimsel",
+          "note": "2 164 m",
+          "say": "media/voix/lieux/20260621_124908.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_124911.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_130608.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_133006.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_152951.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_154927.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_155523.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_165722.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_173017.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_174931.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_175111.jpg",
+          "ms": 3400,
+          "label": "Vers le col du Susten",
+          "note": "La ViaBerna, depuis Gadmen",
+          "say": "media/voix/lieux/20260621_175111.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_180052.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260621_181630.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260622",
+      "date": "Jour 19 · 22 juin",
+      "place": "La source du Rhône",
+      "voice": "Trente-neuf degrés dans le Valais. Le matin, le col de la Furka. C'est ici que le Rhône prend sa source. Puis une longue descente jusqu'à Brigue, et la piste le long du fleuve, jusqu'à Sierre.",
+      "audio": "media/voix/20260622.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260622_064237.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_080711.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_083245.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_090110.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_090827.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_091508.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_091517.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_091602.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_091831.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_092947.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_094149.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_101935.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_112832.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_112839.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_112849.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_113638.jpg",
+          "ms": 3400,
+          "label": "Col de la Furka",
+          "note": "2 436 m",
+          "say": "media/voix/lieux/20260622_113638.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_113906.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_114049.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_114055.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_114127.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_115824.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_120115.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_120355.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135450.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135500.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135539.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135546.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135721.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_135859.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_140049.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_140232.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_140303.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_140532.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_191612.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260622_192550.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260623",
+      "date": "Jour 20 · 23 juin",
+      "place": "Le mont Blanc",
+      "voice": "Je quitte le Valais. Le col de la Forclaz, à travers les vignes et la forêt. Je croise des marcheurs qui font le tour du Mont-Blanc. Puis le col des Montets, Chamonix, et Cluses pour finir. Demain, Genève, et le train.",
+      "audio": "media/voix/20260623.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260623_081836.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_081908.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_093616.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_122524.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_122550.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_122627.jpg",
+          "ms": 2200,
+          "label": "Col de la Forclaz",
+          "note": "1 527 m, tour du Mont-Blanc",
+          "say": "media/voix/lieux/20260623_122627.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_122707.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_122808.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_125606.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_143611.jpg",
+          "ms": 3400,
+          "label": "Col des Montets",
+          "note": "1 461 m, vers Chamonix",
+          "say": "media/voix/lieux/20260623_143611.mp3?v=court"
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_143749.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_143902.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144248.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144254.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144353.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144404.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144409.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_144425.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_145056.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_150555.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260623_200827.jpg",
+          "ms": 3400
+        }
+      ]
+    },
+    {
+      "id": "20260624",
+      "date": "Jour 21 · 24 juin",
+      "place": "Le train",
+      "voice": "Je suis bien arrivé à Genève. Me voilà dans le train pour Clermont-Ferrand. Sur le carnet, les tampons du voyage. Mille huit cent quarante-trois kilomètres à vélo. Merci à tous.",
+      "audio": "media/voix/20260624.mp3?v=fr",
+      "media": [
+        {
+          "type": "image",
+          "src": "media/photos/20260624_104331.jpg",
+          "ms": 3200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_104346.jpg",
+          "ms": 2200
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_104533.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_104541.jpg",
+          "ms": 1400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_104652.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_121655.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_124139.jpg",
+          "ms": 3400
+        },
+        {
+          "type": "image",
+          "src": "media/photos/20260624_124257.jpg",
+          "ms": 3400
+        }
+      ]
+    }
+  ]
+}

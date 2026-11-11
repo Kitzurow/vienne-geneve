@@ -1,0 +1,12 @@
+_cartels/
+_id/
+_labels/
+_ocr/
+_ocr2/
+_ocr3/
+_review/
+_sheets/
+_view/
+__pycache__/
+*.py
+*.pyc
